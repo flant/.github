@@ -7,5 +7,5 @@ Our Open Source projects include:
 Please check our pinned repositories for more.
 
 We also have:
-* [our technical blog](https://blog.flant.com/) where we share our DevOps adventures dealing with Kubernetes and other great tools;
+* [a technical blog](https://medium.com/@flant_com) where we share our DevOps adventures dealing with Kubernetes, werf, Deckhouse, and other great tools;
 * [@flant_com](https://twitter.com/flant_com) in Twitter.
