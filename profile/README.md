@@ -1,4 +1,4 @@
-[Flant](https://flant.com/company/about-us) is a Kubernetes Certified Service Provider with dozens of CKA-certified engineers on board.
+[Flant](https://flant.com) is a Kubernetes Certified Service Provider with dozens of CKA-certified engineers on board.
 
 Our Open Source projects include:
 * [Deckhouse Kubernetes Platform](https://deckhouse.io/) ([GitHub](https://github.com/deckhouse/deckhouse)),
